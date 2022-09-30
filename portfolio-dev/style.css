@@ -68,6 +68,15 @@ nav ul li a{
     width:30%;
     border-radius: 1em;
 }
+#flex_about #education{
+    text-align: center;
+}
+#flex_about #experience{
+    text-align: center;  
+}
+#flex_about #skills{
+    text-align: center;
+}
 #about_me{
     
     display: flex;
@@ -110,4 +119,11 @@ footer{
 }
 #education ul li{
     font-size: medium;
+    
+}
+#experience ul li{
+    font-size: medium;  
+}
+#skills ul li{
+    font-size: medium;  
 }
