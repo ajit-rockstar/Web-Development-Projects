@@ -117,6 +117,9 @@ footer{
     text-align: center;     
     background:black;
 }
+footer p{
+    color: #f1f1f1;
+}
 #education ul li{
     font-size: medium;
     
